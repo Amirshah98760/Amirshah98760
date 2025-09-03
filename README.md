@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Amirshah98760
-- 👀 I’m interested Computer Work
-- 🌱 I’m currently learning Web and Mobile Application Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Amir Shah
+I’m a Web Developer who loves turning ideas into real, working websites and apps. My main focus is on writing clean code and building user-friendly digital experiences.
+🚀 About Me
 
-<!---
-Amirshah98760/Amirshah98760 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Skilled in HTML, CSS, JavaScript, and always learning more.
+
+🎨 Passionate about design that looks good and works even better.
+
+🌱 Currently exploring modern web frameworks and best practices.
+
+🤝 Open to collaborating on creative and impactful projects.
