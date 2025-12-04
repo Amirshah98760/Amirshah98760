@@ -3,10 +3,14 @@ I’m a Web Developer who loves turning ideas into real, working websites and ap
 
 🚀 About Me
 
-💻 Skilled in HTML, CSS, JavaScript, and always learning more.
+💻 Skilled in HTML, CSS, JavaScript,React js , Node js , Express Js,  and always learning more.
 
 🎨 Passionate about design that looks good and works even better.
 
 🌱 Currently exploring modern web frameworks and best practices.
 
 🤝 Open to collaborating on creative and impactful projects.
+
+ How to reach me amirshah98760@gmail.com
+
+
